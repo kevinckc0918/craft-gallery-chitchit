@@ -21,7 +21,7 @@ const appId = "craft-gallery-chitchit";
 
 // --- Constants ---
 const CATEGORIES = ['花藝', '麵粉花', '水晶花', '法式刺繡', '蜀繡', '水彩', '油畫'];
-const ADMIN_PASSWORD = 'chitchitkwok';
+const ADMIN_PASSWORD = 'chitchit0504';
 
 export default function App() {
   const [user, setUser] = useState(null);
